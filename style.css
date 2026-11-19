@@ -3,17 +3,18 @@
 }
 
 body {
+    color: #2c2a2a;
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #7c4343;
+    background-color: #d097eb;
 }
 
 header, nav, main, aside, footer {
     padding: 20px;
     margin: 10px;
-    background: rgb(226, 171, 171);
+    background: rgb(146, 158, 212);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -30,7 +31,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #534b4b;
+    color: #674e69;
     font-weight: bold;
 }
 
@@ -44,7 +45,7 @@ main {
 
 aside {
     width: calc(20% - 20px); 
-    background: #a59f9f;
+    background: #eb88b6;
 }
 
 section {
@@ -53,7 +54,7 @@ section {
 }
 
 article {
-    border-bottom: 1px solid #c8ceaa6e;
+    border-bottom: 1px solid #d2dba16e;
     padding-bottom: 10px;
     margin-bottom: 10px;
 }
@@ -66,5 +67,5 @@ article img {
 footer {
     text-align: center;
     font-size: 0.9em;
-    color: #c28bc7;
+    color: #d791dd;
 }
