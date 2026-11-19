@@ -23,6 +23,7 @@ header, nav, main, aside, footer {
 nav ul {
     list-style: none;
     padding: 0;
+
 }
 
 nav ul li {
@@ -32,7 +33,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #947896;
+    color: #2f2c30;
     font-weight: bold;
 }
 
