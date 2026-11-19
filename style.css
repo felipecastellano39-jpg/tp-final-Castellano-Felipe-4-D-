@@ -8,13 +8,14 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #d097eb;
+    background-color: #ecc0df;
 }
 
 header, nav, main, aside, footer {
+    color: white;
     padding: 20px;
     margin: 10px;
-    background: rgb(146, 158, 212);
+    background: rgb(40, 78, 248);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -31,7 +32,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #674e69;
+    color: #947896;
     font-weight: bold;
 }
 
@@ -45,7 +46,7 @@ main {
 
 aside {
     width: calc(20% - 20px); 
-    background: #eb88b6;
+    background: #a18e97;
 }
 
 section {
@@ -54,7 +55,7 @@ section {
 }
 
 article {
-    border-bottom: 1px solid #d2dba16e;
+    border-bottom: 1px solid #e4e9cb6e;
     padding-bottom: 10px;
     margin-bottom: 10px;
 }
